@@ -10,4 +10,4 @@ $ cd simbf
 
 $ git pull
 
-$ python2 run.
+$ python2 run.py
